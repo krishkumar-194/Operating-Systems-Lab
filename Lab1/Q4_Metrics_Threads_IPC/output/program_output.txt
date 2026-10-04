@@ -1,0 +1,34 @@
+============================================
+   OS METRICS, THREADS AND IPC DEMO
+============================================
+
+========== THREAD EXECUTION ==========
+Thread completed successfully.
+Sum = 1000000
+Execution Time = 0.002177 seconds
+======================================
+
+Child PID = 15789
+============================================
+   OS METRICS, THREADS AND IPC DEMO
+============================================
+
+========== THREAD EXECUTION ==========
+Thread completed successfully.
+Sum = 1000000
+Execution Time = 0.002177 seconds
+======================================
+
+============= IPC =============
+Parent PID = 15786
+Message received: Hello from Child Process using Pipe IPC
+IPC Method: Pipe
+===============================
+
+========== PROCESS METRICS ==========
+User CPU Time   : 0.004740 seconds
+System CPU Time : 0.000000 seconds
+Maximum Memory  : 6220 KB
+=====================================
+
+Program completed successfully.

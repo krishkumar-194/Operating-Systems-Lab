@@ -1,0 +1,29 @@
+========================================
+       PAGING & SEGMENTATION
+========================================
+
+Paging
+Page Size = 100
+
+Page Table:
+Page 0 -> Frame 3
+Page 1 -> Frame 1
+Page 2 -> Frame 4
+Page 3 -> Frame 0
+Page 4 -> Frame 2
+
+Enter Logical Address (0-499): 
+Page Number      = 2
+Offset           = 50
+Frame Number     = 4
+Physical Address = 450
+
+Segmentation Example:
+Segment Base  = 1000
+Segment Limit = 500
+Offset        = 250
+Physical Address = 1250
+
+========================================
+Paging and Segmentation completed successfully.
+========================================

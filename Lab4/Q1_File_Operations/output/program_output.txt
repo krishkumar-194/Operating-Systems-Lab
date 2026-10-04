@@ -1,0 +1,10 @@
+========================================
+           FILE OPERATIONS
+========================================
+
+File Content:
+Operating Systems Lab - File Operations
+File created and written successfully.
+
+File read operation completed successfully.
+========================================

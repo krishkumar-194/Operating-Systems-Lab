@@ -1,0 +1,22 @@
+========================================
+     SWAPPING & ADDRESS TRANSLATION
+========================================
+
+Page Size = 100
+
+Page Table:
+Page 0 -> Frame 2
+Page 1 -> Frame 0
+Page 2 -> Frame 3
+Page 3 -> Frame 1
+
+Enter Logical Address (0-399): 
+Logical Address  = 150
+Page Number      = 1
+Offset           = 50
+Frame Number     = 0
+Physical Address = 50
+
+========================================
+Address translation completed successfully.
+========================================

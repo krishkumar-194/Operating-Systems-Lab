@@ -1,0 +1,13 @@
+=====================================
+      THREAD MUTEX DEMONSTRATION
+=====================================
+Thread 1 completed.
+Thread 3 completed.
+Thread 4 completed.
+Thread 2 completed.
+
+=====================================
+Expected Counter : 400000
+Actual Counter   : 400000
+=====================================
+Program completed successfully.

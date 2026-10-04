@@ -1,0 +1,36 @@
+=================================================================
+CPU SCHEDULING - FCFS AND SJF
+=================================================================
+
+Enter number of processes: Enter burst time for P1: Enter burst time for P2: Enter burst time for P3: Enter burst time for P4: Enter burst time for P5: 
+=================================================================
+FCFS SCHEDULING
+=================================================================
+Execution Order: P1 -> P2 -> P3 -> P4 -> P5
+
+Process	Burst	Waiting	Turnaround	Completion
+-------------------------------------------------------
+P1	5	0	5		5
+P2	3	5	8		8
+P3	2	8	10		10
+P4	8	10	18		18
+P5	4	18	22		22
+-------------------------------------------------------
+Average Waiting Time    : 8.20
+Average Turnaround Time : 12.60
+
+=================================================================
+SJF SCHEDULING
+=================================================================
+Execution Order: P3 -> P2 -> P5 -> P1 -> P4
+
+Process	Burst	Waiting	Turnaround	Completion
+-------------------------------------------------------
+P1	5	9	14		14
+P2	3	2	5		5
+P3	2	0	2		2
+P4	8	14	22		22
+P5	4	5	9		9
+-------------------------------------------------------
+Average Waiting Time    : 6.00
+Average Turnaround Time : 10.40

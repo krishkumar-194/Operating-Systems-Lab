@@ -1,0 +1,16 @@
+========================================
+          DEADLOCK AVOIDANCE
+          BANKER'S ALGORITHM
+========================================
+
+Available Resources:
+R1 = 3, R2 = 3, R3 = 2
+
+Checking system safety...
+
+System is in SAFE state.
+Safe Sequence: P1 -> P3 -> P4 -> P0 -> P2
+
+========================================
+Deadlock analysis completed successfully.
+========================================

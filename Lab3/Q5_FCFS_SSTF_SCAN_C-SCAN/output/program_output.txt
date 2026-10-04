@@ -1,0 +1,17 @@
+========================================
+          DISK SCHEDULING
+========================================
+
+Initial Head = 53
+
+FCFS: 98 183 37 122 14 124 65 67 
+FCFS Head Movement = 640
+
+SSTF: 65 67 37 14 98 122 124 183 
+SSTF Head Movement = 236
+
+SCAN: 37 65 67 98 122 124 183
+C-SCAN: 14 37 65 67 98 122 124 183
+
+Disk scheduling completed successfully.
+========================================

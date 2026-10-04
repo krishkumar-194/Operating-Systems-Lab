@@ -1,0 +1,14 @@
+========================================
+          FILE TYPES & ACCESS
+========================================
+
+File Information:
+File Size = 43 bytes
+
+Access Permissions:
+Read    : Yes
+Write   : Yes
+Execute : No
+
+File types and access check completed successfully.
+========================================

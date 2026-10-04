@@ -1,0 +1,16 @@
+========================================
+          DEVICE ALLOCATION
+========================================
+
+Device Allocation Table:
+Process   D1  D2  D3
+P1        1   0   0   
+P2        0   1   0   
+P3        0   0   1   
+P4        0   0   0   
+
+Available Devices:
+D1 = 0, D2 = 0, D3 = 0
+
+Device allocation completed successfully.
+========================================

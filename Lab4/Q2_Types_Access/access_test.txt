@@ -1,0 +1,1 @@
+Testing file types and access permissions.
